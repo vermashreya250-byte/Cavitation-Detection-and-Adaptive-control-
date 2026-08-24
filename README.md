@@ -1,9 +1,2 @@
 # Arduino-Uno-Q
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/X3MLUWcRTSs"
-  title="YouTube video"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
+[![Watch the project demo](https://img.youtube.com/vi/X3MLUWcRTSs/maxresdefault.jpg)](https://www.youtube.com/watch?v=X3MLUWcRTSs)
